@@ -21,6 +21,15 @@ Click the image below to watch the demo:
 [![Watch Demo Video](https://img.icons8.com/color/96/video.png)](https://drive.google.com/file/d/1jazLM9v0r8Y6RipcCwL3qNngM9HQaMzM/view?usp=sharing)
 
 
+## 📸 Image Output Demo
+
+### Emotion Detection Output
+
+![Emotion Output](image_output.png)
+
+
+
+
 # 🚀 Features
 
 - Real-time emotion detection
