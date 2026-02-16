@@ -14,6 +14,13 @@ The model is trained on the AffectNet dataset in YOLO format.
 
 ---
 
+## 🎥 Demo Video
+
+Click the image below to watch the demo:
+
+[![Watch Demo Video](https://img.icons8.com/color/96/video.png)](https://drive.google.com/file/d/1jazLM9v0r8Y6RipcCwL3qNngM9HQaMzM/view?usp=sharing)
+
+
 # 🚀 Features
 
 - Real-time emotion detection
